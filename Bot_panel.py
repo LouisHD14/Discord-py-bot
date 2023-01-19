@@ -143,5 +143,5 @@ async def main():
 
 #asyncio.run(main())
 
-bot.run("MTAzODQ2MDQxODk0OTEyNDIxOA.G9X1JE.Z4qHYSegwE_R_TpauDuDPQESR4RUXe4mL46Wwo")
+bot.run("")
 
